@@ -1,1 +1,5 @@
-**Submitted for review to the 29th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA 2021).**
+**Experiments using this software have been run on NetFPGA and are
+included as part of a paper submitted for review to a journal (2021).**
+
+Authors: Ganesh C. Sankaran, Harsh Gondaliya and Krishna Sivalingam
+
