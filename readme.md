@@ -18,5 +18,5 @@ This work is published in IEEE Internet of Things Journal. When referencing this
 
 Ganesh C. Sankaran, Krishna M. Sivalingam, Harsh Gondaliya, "P4 and NetFPGA based secure in-network computing architecture for AI-enabled Industrial Internet of Things"
 
-### Acknowledgements
+### Acknowledgments
 This work was supported by a Mid-Career Institute Research and Development Award (IRDA) from IIT Madras (2017–2020) and DST-FIST grant (SR/FST/ETI-423/2016) from Government of India (2017–2022).
